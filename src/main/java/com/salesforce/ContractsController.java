@@ -32,12 +32,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class ContractsController {
-	static final String USERNAME     = "deepa@myde.com";
-	static final String PASSWORD     = "dj4salesforce";
-	static final String LOGINURL     = "https://deepa2017-dev-ed.my.salesforce.com/";
-	static final String GRANTSERVICE = "/services/oauth2/token?grant_type=password";
-	static final String CLIENTID     = "3MVG9zlTNB8o8BA0DQz_ttdA8Ky1d28N.UYpT5AYeabURhbEG1aY.Y2J9Sv_YCbPWTFPWmfc3gJmclXdXqWws";
-	static final String CLIENTSECRET = "6373044468013929705";
+	static final String USERNAME     = "**";
+	static final String PASSWORD     = "**";
+	static final String LOGINURL     = "**";
+	static final String GRANTSERVICE = "**";
+	static final String CLIENTID     = "**";
+	static final String CLIENTSECRET = "**";
 	
 	@RequestMapping("/authentication")
 	public String oAuthSessionProvider()
