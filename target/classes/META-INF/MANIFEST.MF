@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ContractsDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MukundDeepa
+Implementation-Vendor-Id: SFDC
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/ContractsDem
+ o/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
